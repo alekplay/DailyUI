@@ -2,6 +2,80 @@
 
 Trying to step up my design game by practicing the art a little more. Will be designing one item every day for 100 days straight, and uploading them here. Please feel free to leave feedback on Dribbble. 
 
+#### Day 16 - PopUp/ Overlay
+
+Not too fond of these open ended challenges, as I end up spending more time figuring out what to make than actually making something.
+
+However after browsing Dribbble for a while, I had enough inspiration to look at to make this.
+
+[View on Dribbble](https://dribbble.com/shots/3283228-Pop-Up-Overlay-Order-Receipt)
+
+#### Day 15 - On/ Off Switch
+
+Kept it simple this time, couldn't come up with any original ideas so basically just redesigned the iOS switch.
+
+[View on Dribbble](https://dribbble.com/shots/3280685-On-Off-Switch)
+
+#### Day 14 - Countdown Timer
+
+Second animation! Seeing how many other countdown timers on Dribbble were animated, I felt I had to throw one together as well.
+
+I cheated a little by using interface elements from my parking app, but all the animations were made from scratch. Rather happy how they turned out, especially the one going from the countdown back to the main screen.
+
+[View on Dribbble](https://dribbble.com/shots/3277586-Countdown-Timer-iOS-App)
+
+#### Day 13 - Direct Messaging
+
+This didn't turn out as good as I had envisioned, but I think if I gave myself a little more time I could've come up with something better. Maybe another time.
+
+[View on Dribbble](https://dribbble.com/shots/3274757-Direct-Messaging-iOS-App)
+
+#### Day 12 - E Commerce Shop Single Item
+
+Had to quickly throw something together for this one, was a little tight on time. Got inspired by another similar shot, but it didn't turn out as good as I had hoped. 
+
+Still not too bad though I think.
+
+[View on Dribble](https://dribbble.com/shots/3271651-Single-Item-E-Commerce-Modal)
+
+#### Day 11 - Flash Message Error/ Success
+
+Kept it simple today, just two small popups for a generic error/ success.
+
+[View on Dribbble](https://dribbble.com/shots/3265106-Flash-Message-Error-Success)
+
+#### Day 10 - Social Share
+
+Today was the first day I decided to submit an animation for my challenge. Quickly mocked up two screens in Sketch, then used Principle to animate between them.
+
+Both the .sketch and the .principle file is uploaded to GitHub.
+
+[View on Dribbble](https://dribbble.com/shots/3262802-Social-Share-Quote-Card)
+
+#### Day 9 - Music Player
+
+Couldn't really think of anything too original, so mixed a lot of concepts I found while browsing similar shots on Dribbble. 
+
+[View on Dribbble](https://dribbble.com/shots/3259524-iOS-Music-Player-Screen)
+
+#### Day 8 - 404 Page
+
+Designed two screens for this challenge. One a little more serious, where I tried to help the customer who reached the 404-screen in the best possible way. 
+
+The other was more just for fun.
+
+[View the first on Dribble](https://dribbble.com/shots/3256484-404-Web-Page-Not-Found)
+
+[View the second on Dribble](https://dribbble.com/shots/3256500-404-Not-Found-Illustration)
+
+#### Day 7 - Settings
+
+Didn't have much of a plan or a purpose for this one, so ended up being a mix of a bunch of random thoughts. 
+
+Overall not too shabby, but I can see several optimizations that could've made it better. Furthermore, I think it would've been even better if it had a purpose.
+
+[View on Dribbble](https://dribbble.com/shots/3253953-Desktop-Settings-Screen)
+
 #### Day 6 - User Profile
 
 Again, time constraints got the better of me. I had some really exciting ideas for this one, but I had to throw together something last minute and therefore I went with something a bit more safe and easy.
